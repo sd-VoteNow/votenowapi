@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ab63593-31a2-4238-ae09-1cc3feb00605" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTTP Request" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GtXivMJUR0fMgcAVcjzRijofpr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/rafao/OneDrive - IADE-U/PROJ - SD/unimanager",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rafao\OneDrive - IADE-U\PROJ - SD\unimanager" />
+      <recent name="C:\Users\rafao\OneDrive - IADE-U\PROJ - SD\unimanager\models" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rafao\OneDrive - IADE-U\PROJ - SD\unimanager\models" />
+      <recent name="C:\Users\rafao\OneDrive - IADE-U\PROJ - SD\unimanager\bin" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="testes | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/routes/testes.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.testes | #1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ab63593-31a2-4238-ae09-1cc3feb00605" name="Changes" comment="" />
+      <created>1667208984880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667208984880</updated>
+      <workItem from="1667208986133" duration="32000" />
+      <workItem from="1667557960552" duration="91000" />
+      <workItem from="1667902135464" duration="18000" />
+      <workItem from="1668078446105" duration="84000" />
+      <workItem from="1669371281262" duration="429000" />
+      <workItem from="1669636753543" duration="644000" />
+      <workItem from="1670180471479" duration="324000" />
+      <workItem from="1670954501703" duration="238000" />
+      <workItem from="1671295966704" duration="2332000" />
+      <workItem from="1671481624956" duration="105000" />
+      <workItem from="1672173488947" duration="1461000" />
+      <workItem from="1672238878113" duration="37000" />
+      <workItem from="1672239095998" duration="689000" />
+      <workItem from="1672331774410" duration="23773000" />
+      <workItem from="1672398636898" duration="560000" />
+      <workItem from="1672421666053" duration="8208000" />
+      <workItem from="1672430847148" duration="31000" />
+      <workItem from="1672434630896" duration="8597000" />
+      <workItem from="1672443861319" duration="393000" />
+      <workItem from="1672486106399" duration="1801000" />
+      <workItem from="1672494654548" duration="14569000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

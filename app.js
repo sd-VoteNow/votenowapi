@@ -29,7 +29,7 @@ app.post('/resultvot',utilizador.resultvot)
 
 //perguntas
 const pergunta = require('./routes/pergunta')
-app.get('/pergunta',pergunta.getpergunta)
+app.get('/perguntas',pergunta.getpergunta)
 app.get('/pergunta/:id(\\d+)',pergunta.getperguntabyid)
 app.post('/createperg',pergunta.createpergunta)
 
